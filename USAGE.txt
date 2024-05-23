@@ -1,0 +1,7 @@
+USAGE:
+      You just have to launch "my_defender".
+DESCRIPTION:
+      You are the hero of a very old kingdom
+and you have been chosen to protect it from
+trolls. Use the army power of your kingdom to
+kill them and win this war.
